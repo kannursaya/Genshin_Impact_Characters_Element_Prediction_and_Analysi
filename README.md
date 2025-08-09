@@ -2,24 +2,24 @@
 This project uses machine learning to predict a character’s element or main role based on their in-game statistics. We analyzed the dataset, performed feature exploration and visualization, and trained a supervised ML model to classify each character accurately.
 Features:
 
-Data cleaning, preprocessing, and visualization
+- Data cleaning, preprocessing, and visualization
 
-Correlation analysis of stats with elements/roles
+- Correlation analysis of stats with elements/roles
 
-Machine learning classification model (supervised learning)
+- Machine learning classification model (supervised learning)
 
-High-accuracy predictions on test data
+- High-accuracy predictions on test data
 
 Tech Stack:
 
-Python, Pandas, NumPy, Matplotlib, Seaborn
+- Python, Pandas, NumPy, Matplotlib, Seaborn
 
-Scikit-learn
+- Scikit-learn
 
 Use Cases:
 
-Game analytics and balancing
+- Game analytics and balancing
 
-Instant element/role detection from stats
+- Instant element/role detection from stats
 
-Character database automation
+- Character database automation
